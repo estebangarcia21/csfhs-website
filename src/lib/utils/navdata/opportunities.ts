@@ -269,8 +269,28 @@ export const opportunities: Opportunities[] = [
         ],
         testimonials: [
             {
-                author: '',
-                quote: '',
+                author: 'Raymond Lin',
+                quote: 'The provided a nuanced and unique perspective on my future in computer science and realistic expectations for the career and the field. My favorite part of the event was Mr. Kyle Younger because I loved his accent and his vibe.',
+            },
+            {
+                author: 'Weivin Zhang',
+                quote: 'I think this event helped me prepare by giving a job like experience, working with customers in the field of programming. It was very fun to be able to work in a environment of coding ',
+            },
+            {
+                author: 'Faris Assi',
+                quote: ' the event was super helpful in showing what it would be like working as a software developer. The instructors really emphasized certain parts to show that they themselves face the type of challenges they gave as a real software developer. My favorite part of the event was the free donuts',
+            },
+            {
+                author: 'Aiden Calvert',
+                quote: 'The event was as an extremely practical course that focused on real-world examples. My favorite part of it was experiencing the HPE building and learning new things with my friends.',
+            },
+            {
+                author: 'Omar Ahmad',
+                quote: 'The event will help prepare me for difficult and unforeseen events that could occur in the real-world jobs. My favorite part was socialization and the "Natural Disaster" section',
+            },
+            {
+                author: 'Nina Dong',
+                quote: 'The event was very practial and I really like the "gathering information from the client" part. It mimics the working world and was an unexpected, but pleasant twist. My favorite part of the event was the instructors. They were super nice and easy to talk to.',
             },
         ],
         signup: {
